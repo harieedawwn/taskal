@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Taskal</string>
+    <string name="app_tagline">Lịch Kính Lỏng &amp; Sổ Kế Hoạch Nội Bộ</string>
+
+    <!-- Modes -->
+    <string name="mode_home">Trang chủ</string>
+    <string name="mode_calendar">Lịch</string>
+    <string name="mode_tasks">Công việc</string>
+    <string name="mode_board">Bảng Kanban</string>
+    <string name="mode_matrix">Ma trận</string>
+    <string name="mode_notes">Ghi chú</string>
+    <string name="mode_habits">Thói quen</string>
+    <string name="mode_focus">Tập trung</string>
+    <string name="mode_stats">Thống kê</string>
+    <string name="mode_widgets">Tiện ích</string>
+    <string name="mode_settings">Cài đặt</string>
+    <string name="mode_more">Thêm</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Bỏ qua</string>
+    <string name="onboarding_next">Tiếp theo</string>
+    <string name="onboarding_start">Bắt đầu ngay</string>
+    <string name="onboarding_load_sample">Tải dữ liệu mẫu</string>
+    <string name="onboarding_title_1">Lịch Kính Lỏng &amp; Ánh Sáng Sống</string>
+    <string name="onboarding_desc_1">Công việc, khung giờ, ghi chú và thói quen hội tụ ngay trong lịch kèm âm lịch Việt Nam.</string>
+    <string name="onboarding_title_2">Thêm Việc Dưới 2 Giây</string>
+    <string name="onboarding_desc_2">Nhập tự nhiên bằng Tiếng Việt hoặc Tiếng Anh: \"họp nhóm mai 3pm #work !cao\" hoặc \"uống nước mỗi 2 tiếng\".</string>
+    <string name="onboarding_title_3">100% Ngoại Tuyến &amp; Riêng Tư</string>
+    <string name="onboarding_desc_3">Dữ liệu lưu hoàn toàn trên thiết bị, tiện ích co giãn linh hoạt và sao lưu JSON/CSV/ICS tức thì.</string>
+
+    <!-- Quick Add & Tasks -->
+    <string name="quick_add_placeholder">Thêm việc… vd: \"họp nhóm mai 3pm #work !cao\"</string>
+    <string name="quick_add_title">Thêm nhanh công việc</string>
+    <string name="task_title_hint">Tên công việc</string>
+    <string name="task_desc_hint">Mô tả chi tiết (hỗ trợ Markdown)…</string>
+    <string name="subtasks_label">Việc nhỏ</string>
+    <string name="add_subtask_hint">Thêm việc nhỏ…</string>
+    <string name="priority_none">Không</string>
+    <string name="priority_low">Thấp</string>
+    <string name="priority_medium">Trung bình</string>
+    <string name="priority_high">Cao</string>
+    <string name="status_todo">Cần làm</string>
+    <string name="status_doing">Đang làm</string>
+    <string name="status_done">Hoàn thành</string>
+    <string name="smart_today">Hôm nay</string>
+    <string name="smart_tomorrow">Ngày mai</string>
+    <string name="smart_next7">7 ngày tới</string>
+    <string name="smart_overdue">Quá hạn</string>
+    <string name="smart_all">Tất cả</string>
+    <string name="smart_nodate">Chưa có ngày</string>
+    <string name="smart_completed">Đã xong</string>
+    <string name="smart_trash">Thùng rác</string>
+
+    <!-- Calendar -->
+    <string name="cal_month">Tháng</string>
+    <string name="cal_week">Tuần</string>
+    <string name="cal_three_day">3 Ngày</string>
+    <string name="cal_day">Ngày</string>
+    <string name="cal_agenda">Lịch trình</string>
+    <string name="cal_today_btn">Hôm nay</string>
+    <string name="cal_day_note_title">Ghi chú ngày</string>
+    <string name="cal_day_note_placeholder">Viết ghi chú hoặc nhật ký nhanh cho ngày này…</string>
+    <string name="cal_all_day">Cả ngày</string>
+
+    <!-- Empty states -->
+    <string name="empty_tasks_line">Lịch trình trong trẻo — chạm + để ghi lại công việc tiếp theo.</string>
+    <string name="empty_notes_line">Sổ tay kính đã sẵn sàng — lưu lại ý tưởng hoặc ghi chú ngày của bạn.</string>
+    <string name="empty_habits_line">Nước chảy đá mòn — tạo thói quen hàng ngày hoặc hàng tuần đầu tiên.</string>
+    <string name="empty_search_line">Không tìm thấy kết quả phù hợp trong bộ nhớ thiết bị.</string>
+
+    <!-- Notifications & Actions -->
+    <string name="notif_channel_reminders">Nhắc nhở Công việc &amp; Thói quen</string>
+    <string name="notif_channel_focus">Đồng hồ Phiên Tập trung</string>
+    <string name="notif_channel_agenda">Lịch trình &amp; Tổng kết ngày</string>
+    <string name="action_complete">Hoàn thành</string>
+    <string name="action_snooze">Hoãn 10p</string>
+    <string name="action_undo">Hoàn tác</string>
+    <string name="action_save">Lưu</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_reset_section">Khôi phục mặc định</string>
+
+    <!-- Widgets -->
+    <string name="widget_desc_agenda">Tiện ích lịch trình, công việc và thao tác nhanh bằng kính lỏng trên màn hình chính.</string>
+    <string name="widget_configure_title">Tùy chỉnh Tiện ích Taskal</string>
+    <string name="widget_save_apply">Áp dụng &amp; Ghim Tiện ích</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "summary": "Comprehensive architectural, visual design, and staged implementation plan for Taskal, a calendar-centric local-first Android planner featuring the Liquid Glass x Living Light design system, Room + DataStore persistence, bilingual EN/VI support with deterministic natural language parsing and Vietnamese Lunar Calendar, 9 switchable modes, Glance widgets, and alarm reliability.",
+  "updatedAt": "2026-11-02T15:35:45.996346912Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

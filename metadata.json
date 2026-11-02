@@ -1,0 +1,6 @@
+{
+  "name": "Taskal",
+  "description": "A fast, calendar-centric local-first planner for Android with Liquid Glass design, bilingual natural-language capture, and customizable modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
